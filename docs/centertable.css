@@ -1,0 +1,4 @@
+.centertable td, .centertable th {
+	text-align : center;
+	vertical-align : center;
+}
